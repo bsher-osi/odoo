@@ -1,0 +1,9 @@
+# Replace latest by a specific date
+http://nightly.odoo.com/10.0/nightly/src/odoo_10.0.latest.zip
+Werkzeug==0.11.11
+# For merged modules
+#odoo10-addon-module-name==10.0.1.0.0
+#odoo10-addon-partner-contact-nutrition==10.0.1.0.0
+# For unmerged modules
+# git+https://github.com/ursais/repo_name@branch_name#egg=odoo10-addon-module-name&subdirectory=setup/module_name
+# git+https://github.com/ursais/account-payment@10.0-partner-aging#egg=odoo10-addon-partner-aging&subdirectory=setup/partner_aging
