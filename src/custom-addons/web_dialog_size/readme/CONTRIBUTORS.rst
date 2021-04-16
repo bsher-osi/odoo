@@ -12,4 +12,3 @@
   * Ernesto Tejeda
 
 * Sudhir Arya <sudhir@erpharbor.com>
-* Pierre Pizzetta <pierre@devreaction.com>
